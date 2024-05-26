@@ -1,0 +1,12 @@
+.outer{
+    padding:5rem ;
+    background-color: black;
+    /* display: flex; */
+    /* margin: auto; */
+    border-radius: 2rem;
+}
+.bar-main{
+    display: flex;
+    justify-content: center;
+    margin: 2rem;
+}
